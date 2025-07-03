@@ -39,11 +39,8 @@ header nav ul li:hover::after {
 }
 
 header {
-    background-color: rgb(37, 255, 255);
     color: white;
     padding: 10px 0;
-    border-bottom: 2px solid #00c3ffe1;
-    box-shadow: 0 2px 5px rgb(49, 51, 133);
     width: 100vw;
 }
 
@@ -52,7 +49,7 @@ header {
     font-size: 2.5rem;
     font-weight: 900;
     color: #0e0088;
-    text-shadow: 0 0 10px rgb(38, 0, 255);
+    text-shadow: 0 0 10px rgb(0, 153, 255);
 }
 
 ul {
