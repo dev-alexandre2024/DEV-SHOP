@@ -21,7 +21,7 @@ body{
 }
 h1{
     font-size: 2.5rem;
-    color: #000000;
+    color: #ffffff;
     text-shadow: 0 0 10px rgba(0, 255, 255, 0.8);
     margin-bottom: 20px;
 }
@@ -35,8 +35,8 @@ div.form{
     flex-direction: column;
     align-items: center;
     width: 310px;
-    height:490px;
-    
+    height: 565px;
+
 }
 input[type="text"],
 input[type="number"]{   
