@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to top ,red,black);
+    background-image: linear-gradient(to top, cyan,blue);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,7 +13,7 @@ body{
 
 }
 div.form{
-    background-color: #000;
+    background-color: black;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
@@ -27,7 +27,7 @@ div.form{
 }
 input[type="text"],
 input[type="number"]{   
-    width: 100%;
+    width: 100%;    
     padding: 10px;
     margin: 10px 0;
     border: none;
